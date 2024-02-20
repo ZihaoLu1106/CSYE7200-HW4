@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd1247b2-2f88-45af-bfd5-6d85de1afe65" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cY79qYi91xYnmdpgbXQmgw6NdO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ScalaTest.RandomStateSpec.7th element of RandomState(0) should match case RandomState(5082315122564986995L).executor": "Run",
+    "ScalaTest.RandomStateSpec.RandomState(0L) should match case RandomState(-1034601897293430941) on next.executor": "Run",
+    "ScalaTest.RandomStateSpec.RandomState(0L) should match case RandomState(4804307197456638271).executor": "Run",
+    "ScalaTest.RandomStateSpec.executor": "Run",
+    "ScalaTest.RandomStateSpec.flatMap should work.executor": "Run",
+    "ScalaTest.RandomStateSpec.longToDouble should work.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JANFAN/Documents/GitHub/CSYE7200HW4/assignment-random-state",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="ScalaTest.RandomStateSpec">
+    <configuration name="RandomStateSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="RandomState" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstrs.RandomStateSpec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomStateSpec.RandomState(0L) should match case RandomState(-1034601897293430941) on next" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="RandomState" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstrs.RandomStateSpec" />
+      <option name="testName" value="RandomState(0L) should match case RandomState(-1034601897293430941) on next" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomStateSpec.RandomState(0L) should match case RandomState(4804307197456638271)" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="RandomState" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstrs.RandomStateSpec" />
+      <option name="testName" value="RandomState(0L) should match case RandomState(4804307197456638271)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomStateSpec.flatMap should work" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="RandomState" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstrs.RandomStateSpec" />
+      <option name="testName" value="flatMap should work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomStateSpec.longToDouble should work" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="RandomState" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstrs.RandomStateSpec" />
+      <option name="testName" value="longToDouble should work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.RandomStateSpec" />
+        <item itemvalue="ScalaTest.RandomStateSpec.flatMap should work" />
+        <item itemvalue="ScalaTest.RandomStateSpec.RandomState(0L) should match case RandomState(-1034601897293430941) on next" />
+        <item itemvalue="ScalaTest.RandomStateSpec.RandomState(0L) should match case RandomState(4804307197456638271)" />
+        <item itemvalue="ScalaTest.RandomStateSpec.longToDouble should work" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-semeru-11.0.22-e1d2075fd9a7-24488771" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1247b2-2f88-45af-bfd5-6d85de1afe65" name="Changes" comment="" />
+      <created>1708276515507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708276515507</updated>
+    </task>
+    <servers />
+  </component>
+</project>
